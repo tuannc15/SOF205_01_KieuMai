@@ -1,0 +1,14 @@
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\bin\Debug\net6.0\HelloWold.exe
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\bin\Debug\net6.0\HelloWold.deps.json
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\bin\Debug\net6.0\HelloWold.runtimeconfig.json
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\bin\Debug\net6.0\HelloWold.dll
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\bin\Debug\net6.0\HelloWold.pdb
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.AssemblyInfoInputs.cache
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.AssemblyInfo.cs
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.csproj.CoreCompileInputs.cache
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.dll
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\refint\HelloWold.dll
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.pdb
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\HelloWold.genruntimeconfig.cache
+D:\TuanNC15\SOF205_01_KieuMai\HelloWold\HelloWold\obj\Debug\net6.0\ref\HelloWold.dll
